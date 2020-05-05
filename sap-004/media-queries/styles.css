@@ -1,1 +1,64 @@
 @import './reset.css';
+
+.button {
+    display: none;
+}
+
+.list {
+    display: flex;
+}
+
+.item {
+    text-align: center;
+    background-color: tomato;
+    color: white;
+    flex: 1;
+    padding: 15px;
+}
+
+.text {
+    color: tomato;
+}
+
+@media (max-width: 600px) {
+    .button {
+        display: block;
+        width: 100%;
+        border: 1px solid tomato;
+        padding: 15px;
+        text-transform: uppercase;
+        background-color: transparent;
+        margin-bottom: 15px;
+    }
+
+    .list {
+        display: block;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .button:focus + .menu {
+        display: block;
+    }
+
+    /* ou
+    .list {
+        flex-direction: column;
+    }
+    .item {
+        width: 100%;
+    }
+    */
+}
+
+@media print {
+    .header {
+        display: none;
+    }
+
+    .text {
+        color: black;
+    }
+}
