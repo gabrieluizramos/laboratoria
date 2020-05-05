@@ -20,3 +20,7 @@ Prints:
 
 ##### Exemplo da tela para impressão
 ![Impressão](./images/impressao.png)
+
+---
+Observações:
+- A cor (avermelhada) utilizada nos exemplos é a cor `tomato`.

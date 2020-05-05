@@ -1,0 +1,33 @@
+@charset 'utf-8';
+
+html,
+body {
+	height: 100%;
+}
+
+* {
+    margin: 0;
+	padding: 0;
+	border: none;
+	text-decoration: none;
+	list-style: none;
+	vertical-align: baseline;
+	box-sizing: border-box;
+	z-index: 0;
+	outline: none;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 95%;
+    max-width: 1020px;
+    padding: 30px;
+}
+
+.main {
+    padding-top: 30px;
+}
+
+.text {
+    padding-bottom: 15px;
+}
