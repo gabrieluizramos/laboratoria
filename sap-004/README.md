@@ -8,3 +8,5 @@ Oficinas:
     - [exercício](./media-queries)
 - Código Assíncrono
     - [slides](./codigo-assincrono/slides.pdf)
+- Node, NPM e JSDOM
+    - [slides](./node-npm-e-jsdom/slides.pdf)
