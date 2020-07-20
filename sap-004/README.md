@@ -15,3 +15,6 @@ Oficinas:
 - Node, NPM e JSDOM
     - [slides](./node-npm-e-jsdom/slides.pdf)
     - [vídeo](https://drive.google.com/file/d/1G5QSBqdyfGagVw2VHOUDhZcKX6ebC9tt/view?usp=sharing)
+- React Hooks
+    - [slides](./react-hooks/slides.pdf)
+    - video
