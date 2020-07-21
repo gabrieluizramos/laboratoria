@@ -17,4 +17,4 @@ Oficinas:
     - [vídeo](https://drive.google.com/file/d/1G5QSBqdyfGagVw2VHOUDhZcKX6ebC9tt/view?usp=sharing)
 - React Hooks
     - [slides](./react-hooks/slides.pdf)
-    - video
+    - [vídeo](https://drive.google.com/file/d/1p04yYHCBibXFKAKHebqAyvtcgr2DgiyT/view?usp=sharing)
