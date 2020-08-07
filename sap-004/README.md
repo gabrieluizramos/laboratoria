@@ -18,3 +18,5 @@ Oficinas:
 - React Hooks
     - [slides](./react-hooks/slides.pdf)
     - [vídeo](https://drive.google.com/file/d/1p04yYHCBibXFKAKHebqAyvtcgr2DgiyT/view?usp=sharing)
+- React sem magia
+    - [slides](./react-sem-magia/slides.pdf)
