@@ -1,5 +1,4 @@
 # Laboratoria
-Repositório relacionado às turmas do bootcamp SAP.
+Repositório relacionado às turmas do Bootcamp SAP da [Laboratória](https://www.laboratoria.la/br).
 
-- [Oficinas](./oficinas): contém os materiais de oficinas e vídeos gravados por turma;
-- [Documentos](./documentos): alguns documentos de referência para o bootcamp.
+- [Turmas](./turmas): contém os materiais de oficinas, pomodoros, vídeos e exercícios divididos pelas turmas;
