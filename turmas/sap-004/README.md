@@ -1,6 +1,6 @@
 # SAP-004
 
-## Oficinas:
+## Oficinas
 - Git e Github
     - [slides](./git-e-github/slides.pdf)
 - Media queries
