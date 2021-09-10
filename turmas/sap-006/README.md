@@ -11,4 +11,6 @@
     - [vídeo](https://drive.google.com/file/d/1LvIBfgzCnTzDowh2GnrGk1uURNvBfBtX/view?usp=sharing)
 - Caminhão do mock 🚚: oficina sobre testes e mocks em geral, usando Jest
     - [vídeo](https://drive.google.com/file/d/1tkwOpXppjIR2vOJGArTKi1wGiLV6aMhI/view?usp=sharing)
-    - [projetinhos](./caminhao-do-mock/arquivos.zip) que testamos (jogo dos números e um exemplo de "tela", síncrono e assíncrono)
+    - [projetos](./caminhao-do-mock/arquivos.zip) que testamos (jogo dos números e um exemplo de "tela", síncrono e assíncrono)
+- Oficina do Reactoso ⚛️ sobre conceitos de componentização em geral (e como bibliotecas/frameworks aplicam isso), coisas específicas de React (como estado) e um pequeno exemplo de testes nesse novo contexto
+    - [vídeo](https://drive.google.com/file/d/1AbZnFJ8C7zx71WHKmkhasxFIOuO3I0qh/view?usp=sharing)
