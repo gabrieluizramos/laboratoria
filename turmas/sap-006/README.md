@@ -14,3 +14,5 @@
     - [projetos](./caminhao-do-mock/arquivos.zip) que testamos (jogo dos números e um exemplo de "tela", síncrono e assíncrono)
 - Oficina do Reactoso ⚛️ sobre conceitos de componentização em geral (e como bibliotecas/frameworks aplicam isso), coisas específicas de React (como estado) e um pequeno exemplo de testes nesse novo contexto
     - [vídeo](https://drive.google.com/file/d/1AbZnFJ8C7zx71WHKmkhasxFIOuO3I0qh/view?usp=sharing)
+- Slido sobre BQ-React (com sorteio do Livro Javascript Assertivo no final)
+    - [vídeo](https://drive.google.com/file/d/1RQyi0OknDaU6GZxGyOdVAXgFe3ia09tk/view?usp=sharing)
