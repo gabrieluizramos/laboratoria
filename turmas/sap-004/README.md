@@ -6,18 +6,18 @@
 - Media queries
     - [slides](./media-queries/slides.pdf)
     - [exercício](./media-queries)
-    - [vídeo](https://drive.google.com/file/d/1IiqpPAo4mopmB3WOi1EneKFJPwSMJDps/view?usp=sharing)
+    - [vídeo](https://youtu.be/CCeWirRAsxc)
 - Código Assíncrono
-    - [vídeo](https://drive.google.com/file/d/1QfRmkvTcGRAoHaVSIAjciYriHq5pG3SC/view?usp=sharing)
+    - [vídeo](https://youtu.be/VRV5dpVVZ6g)
     - [slides](./codigo-assincrono/slides.pdf)
 - Refatoração CSS
-    - [vídeo](https://drive.google.com/file/d/1c1d_2R9kX61_8NBYCpmuEyOTeI-Gs3O3/view?usp=sharing)
+    - [vídeo](https://youtu.be/Pwqs1uqPWhk)
 - Node, NPM e JSDOM
     - [slides](./node-npm-e-jsdom/slides.pdf)
-    - [vídeo](https://drive.google.com/file/d/1G5QSBqdyfGagVw2VHOUDhZcKX6ebC9tt/view?usp=sharing)
+    - [vídeo](https://youtu.be/wwjHNJMqBCE)
 - React Hooks
     - [slides](./react-hooks/slides.pdf)
-    - [vídeo](https://drive.google.com/file/d/1p04yYHCBibXFKAKHebqAyvtcgr2DgiyT/view?usp=sharing)
+    - [vídeo](https://youtu.be/R_1vQXEwR3s)
 - React sem magia
     - [slides](./react-sem-magia/slides.pdf)
-    - [vídeo](https://drive.google.com/file/d/1crfLDvFeZgEFQunLZsGXsBcn0sdcuJ0h/view?usp=sharing)
+    - [vídeo](https://youtu.be/E10QmKFD1G4)

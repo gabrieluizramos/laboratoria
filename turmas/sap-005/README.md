@@ -2,12 +2,12 @@
 
 ## Oficinas
 - Foor e Loop
-    - [vídeo](https://drive.google.com/file/d/1jU7wspiIg075cFBu2EqVLtR-gsFDkDA_/view)
+    - [vídeo](https://youtu.be/GtdKITJOxfg)
 - Promise e código assíncrono
-    - [vídeo](https://drive.google.com/file/d/1yJSw7cNiSbuEL1ViBgTk7mldq9HhfH3v/view?usp=sharing)
+    - [vídeo](https://youtu.be/eM6HPoJESzk)
 - Postgres & Sequelize (passo-a-passo)
-    - [vídeo](https://drive.google.com/file/d/1DTm7EIi-V83CI-KpywhCHGFxxafL5Iaw/view?usp=sharing)
+    - [vídeo](https://youtu.be/v2OHEuXse3I)
 - Boilerplate API e conexão com o banco
-    - [vídeo](https://drive.google.com/file/d/1D0kpQO2l0bWWoV3jd0fpCuxsfSIxtsvr/view?usp=sharing)
+    - [vídeo](https://youtu.be/lD_6MxgEL8g)
 - Plantão sobre BQ API
-    - [vídeo](https://drive.google.com/file/d/1Qp60V05Iy9rkPfTiTZ9ma_jwSOeI-I4i/view)
+    - [vídeo](https://youtu.be/7YrTflPtRJ4)
