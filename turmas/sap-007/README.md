@@ -21,3 +21,4 @@
 7. [16/05/2022](https://youtu.be/kC_fRVPx-IQ)
 8. [23/05/2022](https://youtu.be/nXxeDZ4zoas)
 9. [30/05/2022](https://youtu.be/YjlEV0UMVro)
+10. [06/06/2022](https://youtu.be/UtqSZkpP798)
