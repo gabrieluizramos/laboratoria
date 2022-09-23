@@ -3,6 +3,11 @@
 ## Plantões e outras sessões para tirar dúvidas
 - [29/07/2022](https://youtu.be/D-MbZo6HKV0)
 
+## Oficinas
+- Código assíncrono
+    - [vídeo](https://youtu.be/vTHgjriU0_Q)
+    - [slides](../sap-004/codigo-assincrono/slides.pdf)
+
 ## TestCamp
 1. [08/08/2022](https://youtu.be/MIHHUa9gFVU)
 2. [15/08/2022](https://www.youtube.com/watch?v=2gm93LmnC4Q)
