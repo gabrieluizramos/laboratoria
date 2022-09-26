@@ -16,3 +16,4 @@
 5. [05/09/2022](https://youtu.be/nDzcUKpsEfE)
 6. [12/09/2022](https://youtu.be/oiGYKhLPqLY)
 7. [19/09/2022](https://youtu.be/UK8sL8ni6qQ)
+8. [26/09/2022](https://youtu.be/3fLwR7uNt-M)
