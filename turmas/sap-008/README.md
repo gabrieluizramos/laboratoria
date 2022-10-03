@@ -7,6 +7,8 @@
 - Código assíncrono
     - [vídeo](https://youtu.be/vTHgjriU0_Q)
     - [slides](../sap-004/codigo-assincrono/slides.pdf)
+- CSS e suas peripécias
+    - [vídeo](https://youtu.be/gDtSNYZVrNk)
 
 ## TestCamp
 1. [08/08/2022](https://youtu.be/MIHHUa9gFVU)
