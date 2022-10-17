@@ -20,3 +20,5 @@
 7. [19/09/2022](https://youtu.be/UK8sL8ni6qQ)
 8. [26/09/2022](https://youtu.be/3fLwR7uNt-M)
 9. [03/10/2022](https://youtu.be/5kFcg26GgXk)
+10. ~~10/10/2022~~ não tivemos gravação 😅
+10. [17/10/2022](https://youtu.be/0kGT6mxQutY)
