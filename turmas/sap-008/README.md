@@ -9,6 +9,10 @@
     - [slides](../sap-004/codigo-assincrono/slides.pdf)
 - CSS e suas peripécias
     - [vídeo](https://youtu.be/gDtSNYZVrNk)
+- Rede Social - Utilizando eventos de uma forma mais eficiente
+    - [vídeo](https://youtu.be/fvYpIH6LflQ)
+    - [projeto](https://gabrieluizramos.com.br/SAP008-social-network/)
+    - [repositório](https://github.com/gabrieluizramos/SAP008-social-network)
 
 ## TestCamp
 1. [08/08/2022](https://youtu.be/MIHHUa9gFVU)
