@@ -13,6 +13,8 @@
     - [vídeo](https://youtu.be/fvYpIH6LflQ)
     - [projeto](https://gabrieluizramos.com.br/SAP008-social-network/)
     - [repositório](https://github.com/gabrieluizramos/SAP008-social-network)
+- Componentização e Fundamentos de React
+    - [vídeo](https://youtu.be/M6sEVGX-f-A)
 
 ## TestCamp
 1. [08/08/2022](https://youtu.be/MIHHUa9gFVU)
